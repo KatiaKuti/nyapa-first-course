@@ -1,0 +1,9 @@
+.caption404, .text404 {
+    text-align: center;
+    color: rgb(255, 0, 234);
+    background: rgb(0, 238, 255);
+}
+.main {
+    height: 600px;
+    background: rgb(0, 238, 255);
+}
